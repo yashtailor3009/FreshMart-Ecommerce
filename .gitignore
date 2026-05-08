@@ -1,0 +1,21 @@
+# Target folder (compiled files - large size)
+target/
+*.war
+
+# IDE files
+nbproject/
+nb-configuration.xml
+
+# System files
+.DS_Store
+Thumbs.db
+*.log
+
+# Tomcat logs
+logs/
+*.log
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
