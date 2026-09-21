@@ -124,23 +124,33 @@ Real_Project/
   <img width="959" height="445" alt="image" src="https://github.com/user-attachments/assets/834b9c5f-b4c9-4c0d-8ff0-f41bc4c9c5ea" />
 
   <br>
+  <br>
+  
   <b>Login Page</b>
   <img width="960" height="445" alt="image" src="https://github.com/user-attachments/assets/e72f0896-b4e0-4be3-98c2-eb86c7df5460" />
 
   <br>
+  <br>
+  
   <b>Customer Dashboard</b>
   
   <img width="947" height="444" alt="image" src="https://github.com/user-attachments/assets/50559d98-f1f5-4b3a-bf7c-c821a9758310" />
 
   <br>
+  <br>
+  
   <b>Shopping Cart</b>
   <img width="949" height="443" alt="image" src="https://github.com/user-attachments/assets/3b272fcc-86dd-4a6e-949f-49a835cebbc4" />
 
   <br>
+  <br>
+  
   <b>Payment Page with UPI QR</b>
   <img width="946" height="446" alt="image" src="https://github.com/user-attachments/assets/bd0bd2eb-7294-4611-a526-1dc1f7e48e52" />
 
   <br>
+  <br>
+  
   <b>Admin Analytics</b>
   <img width="947" height="443" alt="image" src="https://github.com/user-attachments/assets/b2a9a707-77bb-4e41-ade8-2e677592bb13" />
 
